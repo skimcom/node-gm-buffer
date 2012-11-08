@@ -1,0 +1,18 @@
+{
+    "name": "gm-buffer",
+    "description": "A plugin for gm module, which enables simple buffering of image binary for later content-length detection.",
+    "version": "0.0.0",
+    "author": "Oleg Slobodskoi <oleg008@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "http: //github.com/kof/node-qunit.git"
+    },
+    "keywords": ["gm", "GraphicsMagick", "ImageMagick", "resize", "crop", "image manupulation"],
+    "engines": {"node": "x.x.x"},
+    "licenses": [
+        {
+           "type": "MIT",
+           "url": "http: //www.opensource.org/licenses/mit-license.php"
+        }
+    ]
+}
