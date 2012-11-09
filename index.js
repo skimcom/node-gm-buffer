@@ -1,6 +1,6 @@
 var gm = require('gm');
 
-if (Number(gm.version.replace('.', '')) < 152) {
+if (Number(gm.version.replace(/\./g, '')) < 152) {
     throw new Error('Version 1.5.2 or higher of "gm" module is required.')
 }
 
