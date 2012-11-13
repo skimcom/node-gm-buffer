@@ -3,9 +3,10 @@
     "description": "A plugin for gm module, which enables simple buffering of image binary for later content-length detection.",
     "version": "0.0.2",
     "author": "Oleg Slobodskoi <oleg008@gmail.com>",
+    "homepage": "https://github.com/skimcom/node-gm-buffer",
     "repository": {
         "type": "git",
-        "url": "http: //github.com/kof/node-qunit.git"
+        "url": "http: //github.com/skimcom/node-gm-buffer.git"
     },
     "keywords": ["gm", "GraphicsMagick", "ImageMagick", "resize", "crop", "image manupulation"],
     "engines": {"node": "x.x.x"},
